@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "imagesnap": "git+https://github.com/lcc-prototyping-lab/imagesnap.js.git",
+    "node-printer": "^1.0.2"
+  }
+}
